@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="home">
         <div className="about">
-              <img className='profile' src={profile} alt="BigCo Inc. logo"/>
+              <img className='profile' src={profile} alt="profile"/>
             <h2>Hi My Name Is Akash</h2>
         <div className="prompt">
             
