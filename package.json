@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ag9731/My-Portfolio.git",
+  "homepage": "https://github.com/ag9731/portfolio-akash.git",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
